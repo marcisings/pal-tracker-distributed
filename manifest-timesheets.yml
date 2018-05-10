@@ -8,3 +8,4 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: https://timesheets-pal-dj.apps.pikes.pal.pivotal.io
   services:
   - tracker-timesheets-database
+k
