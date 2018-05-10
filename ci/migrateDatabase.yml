@@ -14,7 +14,7 @@ inputs:
 #  - name: build-output
 
 run:
-  path: pal-tracker
+  path: bash
   args:
   - -exc
   - |
